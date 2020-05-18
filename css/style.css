@@ -1,3 +1,5 @@
 body{
     background-image: url(../image/2-photo-3-poulet.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
